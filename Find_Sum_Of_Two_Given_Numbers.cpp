@@ -1,4 +1,4 @@
-//Sum of two given numbers (take user input)
+//Sum of two given numbers (take input from user)
 #include<iostream>
 using namespace std;
 
