@@ -7,7 +7,7 @@ using namespace std;
 int main(){
 
     int a=4, b=5;
-   cout<<a/2<<endl<<b/2<<endl; // output of b/2 will 2 which is not exact half
+   cout<<a/2<<endl<<b/2<<endl; // output of b/2 will be 2 which is not exact half
 
    // Program Question
    int x;
