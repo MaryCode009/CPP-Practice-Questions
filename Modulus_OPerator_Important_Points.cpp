@@ -6,7 +6,7 @@ int main(){
    cout<<a%b<<endl; //Modulus operator: gives remainder unlike division which gives quotient
    cout<<p%q<<endl;
 
-   //EXCEPTIONS
+   //Important points
    int c=3, d=4; //(x%y)=x if x is less than y, output  will be value in x
    cout<<c%d<<endl; 
 
