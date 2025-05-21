@@ -6,7 +6,7 @@ int main(){
    int n;
    cout<<"enter the number \n";
    cin>>n;
-   // Relational operators: >  <  <=  >=  !=  ==  
+   
 if(n%5==0){
       cout<<"the given number is divisible by 5\n";
    }
