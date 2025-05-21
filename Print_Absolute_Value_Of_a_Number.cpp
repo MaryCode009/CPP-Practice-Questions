@@ -15,9 +15,6 @@ int main(){
  else{  //n<0 i.e negative number
        cout<<"absolute value is : "<<-n;
  }
-
- //OR full code in short
- //if(n<0) n=-n; cout<<n;
     
 return 0;
 }
